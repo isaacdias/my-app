@@ -1,6 +1,6 @@
 const usuariosController = {
     index: (req, res) => {
-        return res.send('Estou exibindo uma mensagem atraves do controller!')
+        return res.send('Estou exibindo uma mensagem atraves do controller')
     }
 }
 
